@@ -1,5 +1,3 @@
-select * from employee
-
 DELETE FROM employee
 WHERE name LIKE 'Jo%';
 
